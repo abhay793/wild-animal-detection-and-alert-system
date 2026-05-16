@@ -508,10 +508,18 @@ Add your project screenshots here.
 Examples:
 
 * Home Dashboard
+  <img width="2940" height="1664" alt="image" src="https://github.com/user-attachments/assets/b4fad78c-3295-402b-b23c-ec7e7cd290ee" />
+
 * Image Detection Results
+  <img width="1456" height="830" alt="Screenshot 2026-05-16 at 11 56 39 AM" src="https://github.com/user-attachments/assets/0d0a2a86-a20d-49b4-92e4-7546050cdc01" />
+
 * Video Detection Timeline
 * Live Detection Monitoring
+  <img width="1456" height="830" alt="Screenshot 2026-05-16 at 11 56 39 AM" src="https://github.com/user-attachments/assets/23e2f999-9c8f-43dc-97d2-0072bf60c72b" />
+
 * Admin Dashboard
+  <img width="1456" height="830" alt="Screenshot 2026-05-16 at 11 56 39 AM" src="https://github.com/user-attachments/assets/d72b9870-42cb-4d97-a93f-3c337cd5d4b1" />
+
 
 ---
 
