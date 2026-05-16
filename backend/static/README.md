@@ -504,16 +504,21 @@ Check Flask API route paths.
 # 📷 Screenshots
 
 * Home Dashboard
+  
   <img width="2940" height="1664" alt="image" src="https://github.com/user-attachments/assets/b4fad78c-3295-402b-b23c-ec7e7cd290ee" />
 
 * Image Detection Results
+  
   <img width="1456" height="830" alt="Screenshot 2026-05-16 at 11 56 39 AM" src="https://github.com/user-attachments/assets/0d0a2a86-a20d-49b4-92e4-7546050cdc01" />
 
 * Video Detection Timeline
+  
 * Live Detection Monitoring
+  
   <img width="1470" height="830" alt="Screenshot 2026-05-16 at 11 58 36 AM" src="https://github.com/user-attachments/assets/d8464a7b-5947-429b-8e37-2266bf9988db" />
 
 * Admin Dashboard
+  
  <img width="1469" height="834" alt="Screenshot 2026-05-16 at 11 58 06 AM" src="https://github.com/user-attachments/assets/19fc066f-e7d2-4f23-be64-739a45623bc4" />
 
 
