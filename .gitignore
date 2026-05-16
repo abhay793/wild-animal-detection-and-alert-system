@@ -1,0 +1,28 @@
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Mac
+.DS_Store
+
+# YOLO Models
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Vite
+.vite/
